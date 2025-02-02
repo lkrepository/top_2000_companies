@@ -75,7 +75,3 @@ The histograms, combined with the large differences between the average and medi
 - If we see it, there is some overlap in the top companies across different metrics, but the rankings and even the presence of certain companies change significantly. This tells us that leadership in one area doesn't guarantee leadership in others, this means that the rankings are not consistent. As noted above, companies like Walmart and the Chinese banks demonstrate significant shifts in ranking depending on the metric. This indicates that different factors drive each of these metrics, and companies can choose to prioritize different areas of focus.
 ![top10countries](images/screenshot/top10countries.png?raw=true "Title")
 - The graph highlights which countries are most represented in the dataset, with the United States, China, and Japan leading across all previously analyzed metrics. Another key observation is the limited representation of Middle Eastern countries—while Saudi Arabia appears in some charts, likely due to Saudi Aramco, broader regional representation remains scarce. Additionally, the data suggests a notable European presence; several European countries appear consistently, though not always at the top, indicating a strong yet more diversified economic base
-
-### Conclusions of analisis 
-
-
